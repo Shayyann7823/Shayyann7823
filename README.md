@@ -12,18 +12,40 @@
 
 ### 👤 Who I Am
 
-Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've shipped 11 projects across web apps, CLI tools, and AI/computer vision — currently building an AI-powered CCTV surveillance system for healthcare as my FYP.
+Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've shipped 11 projects across web apps, CLI tools, and AI/computer vision.
 
-**Languages:** C++, Python, C#, PHP, HTML, CSS, JavaScript, TypeScript
-**Frameworks:** React, Next.js, React Native, ASP.NET Core (MVC, Web API)
-**AI / Data:** YOLOv8, InsightFace, OpenCV, MediaPipe, Pandas, NumPy, Scikit-learn
-**Databases:** MongoDB, PostgreSQL, MS SQL Server
-
-Open to: Software Development Roles · Full-Stack Projects · Collaboration
+**Open to:** Software Development Roles · Full-Stack Projects · Collaboration
 
 ---
 
-### 🚀 Featured Projects
+### 🩻 Featured: SecureVision — My FYP
+
+<table>
+<tr>
+<td>
+
+**AI-Powered CCTV Surveillance System for Healthcare** · 2025–2026 · Built in partnership with **K-Soft**
+
+Real-time human detection across multiple live camera feeds, plus face-recognition-based video search — replacing manual healthcare monitoring with automated, searchable surveillance.
+
+<img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" width="40" />&nbsp;
+<a href="https://docs.ultralytics.com/" title="YOLOv8 Docs"><img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=00FFFF" /></a>&nbsp;
+<a href="https://github.com/deepinsight/insightface" title="InsightFace"><img src="https://img.shields.io/badge/InsightFace-111111?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" width="40" />
+
+🔒 *Private repo — reach out for a walkthrough.*
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Other Projects
+
+<details open>
+<summary><b>Click to expand / collapse</b></summary>
+<br>
 
 | Project | Description | Stack |
 |---|---|---|
@@ -34,35 +56,76 @@ Open to: Software Development Roles · Full-Stack Projects · Collaboration
 | 🗓️ [Extra Class Scheduler](https://github.com/Shayyann7823/Makeup-Classes-Scheduler) | Web system for Foundation University letting teachers book makeup classes with real-time, department-wise timetables. | HTML, CSS, JavaScript |
 | 🎓 [Student Enrollment System](https://github.com/Shayyann7823/Student-Enrollment-System) | Add, view, search, update, and delete student records using arrays and functions. | C++ |
 
-> 🩻 **SecureVision — AI-Powered CCTV Surveillance System (FYP, 2025–2026)**: Built with **YOLOv8**, **InsightFace**, and **Python** in partnership with K-Soft — real-time human detection across multiple live camera feeds plus face-recognition-based video search, replacing manual healthcare monitoring. *(Private repo — reach out for a walkthrough.)*
+</details>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 
-<img src="https://skillicons.dev/icons?i=cpp,py,cs,php,js,ts,html,css&theme=dark" alt="Languages" />
+<a href="https://cplusplus.com/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
+<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
+<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
 
-**Frontend**
+</details>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+<details open>
+<summary><b>Frontend & Mobile</b></summary>
+<br>
 
-*(also building mobile apps with React Native)*
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+<a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
 
-**Backend / Frameworks**
+*(React Native for mobile apps)*
 
-<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Backend" />
+</details>
 
-**AI / Databases**
+<details open>
+<summary><b>Backend / Frameworks</b></summary>
+<br>
 
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,mongodb,postgres&theme=dark" alt="AI and Databases" />
+<a href="https://dotnet.microsoft.com/" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a>
 
-*(also working daily with Pandas & NumPy for data processing)*
+</details>
 
-**Dev Tools**
+<details open>
+<summary><b>AI & Databases</b></summary>
+<br>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,figma,vercel,linux,firebase&theme=dark" alt="Dev Tools" />
+<a href="https://opencv.org/" title="OpenCV"><img src="https://skillicons.dev/icons?i=opencv&theme=dark" /></a>
+<a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
+
+*(also working daily with Pandas, NumPy & MS SQL Server)*
+
+</details>
+
+<details open>
+<summary><b>Dev Tools</b></summary>
+<br>
+
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" /></a>
+<a href="https://github.com/" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+<a href="https://www.postman.com/" title="Postman"><img src="https://skillicons.dev/icons?i=postman&theme=dark" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" /></a>
+<a href="https://www.figma.com/" title="Figma"><img src="https://skillicons.dev/icons?i=figma&theme=dark" /></a>
+<a href="https://vercel.com/" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
+<a href="https://www.linux.org/" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" /></a>
+<a href="https://firebase.google.com/" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" /></a>
+
+</details>
 
 ---
 
@@ -70,7 +133,7 @@ Open to: Software Development Roles · Full-Stack Projects · Collaboration
 
 ### 📫 Reach Out
 
-<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
-<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+<a href="mailto:mirzashayyanbaig21@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
 
 </div>
