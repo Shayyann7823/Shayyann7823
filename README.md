@@ -33,8 +33,6 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <a href="https://github.com/deepinsight/insightface" title="InsightFace"><img src="https://img.shields.io/badge/InsightFace-111111?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" width="40" />
 
-🔒 *Private repo — reach out for a walkthrough.*
-
 </td>
 </tr>
 </table>
@@ -86,8 +84,6 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
 
-*(React Native for mobile apps)*
-
 </details>
 
 <details open>
@@ -106,8 +102,6 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></a>
 <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
 <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
-
-*(also working daily with Pandas, NumPy & MS SQL Server)*
 
 </details>
 
