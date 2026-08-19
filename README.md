@@ -42,45 +42,27 @@ Open to: Software Development Roles · Full-Stack Projects · Collaboration
 
 **Languages**
 
-![C++](https://img.shields.io/badge/C++-0575E6?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-00C9A7?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-0575E6?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-00C9A7?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6DFF8F?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-0575E6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-00C9A7?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6DFF8F?style=for-the-badge&logo=css3&logoColor=black)
+<img src="https://skillicons.dev/icons?i=cpp,py,cs,php,js,ts,html,css&theme=dark" alt="Languages" />
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-0575E6?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-00C9A7?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-6DFF8F?style=for-the-badge&logo=tailwindcss&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-0575E6?style=for-the-badge&logo=react&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="Frontend" />
+
+*(also building mobile apps with React Native)*
 
 **Backend / Frameworks**
 
-![.NET](https://img.shields.io/badge/ASP.NET_Core-00C9A7?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="Backend" />
 
 **AI / Databases**
 
-![Pandas](https://img.shields.io/badge/Pandas-0575E6?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-00C9A7?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-6DFF8F?style=for-the-badge&logo=opencv&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-0575E6?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00C9A7?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,mongodb,postgres&theme=dark" alt="AI and Databases" />
+
+*(also working daily with Pandas & NumPy for data processing)*
 
 **Dev Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-0575E6?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-00C9A7?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6DFF8F?style=for-the-badge&logo=github&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-0575E6?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-00C9A7?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-6DFF8F?style=for-the-badge&logo=figma&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-0575E6?style=for-the-badge&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-00C9A7?style=for-the-badge&logo=linux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-6DFF8F?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,figma,vercel,linux,firebase&theme=dark" alt="Dev Tools" />
 
 ---
 
@@ -88,7 +70,7 @@ Open to: Software Development Roles · Full-Stack Projects · Collaboration
 
 ### 📫 Reach Out
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1)
-[![Gmail](https://img.shields.io/badge/Email-00C9A7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzashayyanbaig21@gmail.com)
+<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" /></a>
+<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" /></a>
 
 </div>
