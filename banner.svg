@@ -1,0 +1,15 @@
+<svg width="900" height="220" viewBox="0 0 900 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0D1117; }
+      .name { fill: #E6EDF3; font-family: 'SFMono-Regular', Consolas, 'Courier New', monospace; font-size: 34px; font-weight: bold; }
+      .tag { fill: #56B6A2; font-family: 'SFMono-Regular', Consolas, 'Courier New', monospace; font-size: 18px; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="900" height="220"/>
+
+  <text class="name" x="450" y="100" text-anchor="middle">Mirza Shayyan Baig</text>
+  <text class="tag" x="450" y="135" text-anchor="middle">Final-Year IET Student | Full-Stack &amp; AI Systems Builder</text>
+
+</svg>
