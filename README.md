@@ -93,4 +93,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | MongoDB | MS SQL Server | Cisco Packet Tracer | PostgreSQL |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /> | <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" title="MS SQL Server" /> | <img width="40" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco Packet Tracer" /> |
+| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /> | <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" title="MS SQL Server" /> | <img width="40" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco Packet Tracer" /> | <img width="40" src="https://cdn.simpleicons.org/postgresql/4169E1" title="PostgreSQL" /> |
+
+</details>
+
+<details open>
+<summary><b>Cybe
