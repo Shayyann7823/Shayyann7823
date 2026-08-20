@@ -5,8 +5,7 @@
 
   <br>
 
-  <a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" height="48" /></a>
-  <a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Email" height="48" /></a>
+
 
   <br><br>
 
