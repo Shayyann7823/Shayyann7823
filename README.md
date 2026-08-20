@@ -1,8 +1,8 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="Mirza Shayyan Baig banner" />
-<a href="https://github.com/Shayyann7823"><img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS" /></a>
-<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://img.shields.io/badge/Email-56B6A2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Shayyann7823"><img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS" title="Profile Views" /></a>
+<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
+<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://img.shields.io/badge/Email-56B6A2?style=for-the-badge&logo=gmail&logoColor=white" title="Email" /></a>
 </div>
 <br>
 
@@ -19,14 +19,14 @@ Final-year IET student at Foundation University, focused on full-stack web & mob
 <tr>
 <td>
 
-**AI-Powered CCTV Surveillance System** · 2025–2026 · Built in partnership with **K-Soft**
+**AI-Powered CCTV Surveillance System** · 2025–2026 
 
 Real-time human detection across multiple live camera feeds, plus face-recognition-based video search — replacing manual healthcare monitoring with automated, searchable surveillance.
 <br>
 <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" width="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" width="40" />&nbsp;
-<a href="https://docs.ultralytics.com/" title="YOLOv8 Docs"><img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=00FFFF" /></a>&nbsp;
-<a href="https://github.com/deepinsight/insightface" title="InsightFace"><img src="https://img.shields.io/badge/InsightFace-111111?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
+<a href="https://docs.ultralytics.com/" title="YOLOv8 Docs"><img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=00FFFF" title="YOLOv8" /></a>&nbsp;
+<a href="https://github.com/deepinsight/insightface" title="InsightFace"><img src="https://img.shields.io/badge/InsightFace-111111?style=flat-square&logo=github&logoColor=white" title="InsightFace" /></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" width="40" />
 
 </td>
@@ -43,7 +43,6 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 | Project | Description | Stack |
 |---|---|---|
 | [Movie Reservation System](https://github.com/Shayyann7823/AureumMovieReservationSystem) | Fetches live movie listings via API — browse showtimes, select seats, and book tickets online. | ASP.NET Core MVC, C# |
-| [Biryani Time](https://github.com/Shayyann7823/BiryaniTime) | Full-featured food ordering web app for a Karachi-style biryani restaurant. | Next.js 14, React, Tailwind, TypeScript |
 | [House of Aura](https://github.com/Shayyann7823/Clothingstore) | Full-stack clothing e-commerce platform with an AI-powered stylist chatbot, cart, favorites, and secure auth. | Next.js, React, TypeScript |
 | [Doctors Appointment Scheduler](https://github.com/Shayyann7823/Doctors_Appointment_Scheduler) | CLI app to view doctor availability, book real-time appointments, and process payments. | C++ |
 | [Extra Class Scheduler](https://github.com/Shayyann7823/Makeup-Classes-Scheduler) | Web system for Foundation University letting teachers book makeup classes with real-time, department-wise timetables. | HTML, CSS, JavaScript |
@@ -61,7 +60,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | C++ | Python | C# | PHP | HTML | CSS | JavaScript | TypeScript |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=py&theme=dark" /> | <img src="https://skillicons.dev/icons?i=cs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=php&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html&theme=dark" /> | <img src="https://skillicons.dev/icons?i=css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" title="C++" /> | <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" /> | <img src="https://skillicons.dev/icons?i=cs&theme=dark" title="C#" /> | <img src="https://skillicons.dev/icons?i=php&theme=dark" title="PHP" /> | <img src="https://skillicons.dev/icons?i=html&theme=dark" title="HTML" /> | <img src="https://skillicons.dev/icons?i=css&theme=dark" title="CSS" /> | <img src="https://skillicons.dev/icons?i=js&theme=dark" title="JavaScript" /> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" title="TypeScript" /> |
 
 </details>
 
@@ -71,7 +70,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | React Native | ASP.NET Core | Next.js | React |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react&theme=dark" /> | <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React Native" /> | <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" title="ASP.NET Core" /> | <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" /> | <img src="https://skillicons.dev/icons?i=react&theme=dark" title="React" /> |
 
 </details>
 
@@ -81,7 +80,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Pandas | NumPy | Scikit-learn | Matplotlib | Tailwind CSS | Zustand | Prisma ORM |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img width="40" src="https://cdn.simpleicons.org/pandas/150458" /> | <img width="40" src="https://cdn.simpleicons.org/numpy/013243" /> | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /> | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /> | <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" /> | <img src="https://skillicons.dev/icons?i=prisma&theme=dark" /> |
+| <img width="40" src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" /> | <img width="40" src="https://cdn.simpleicons.org/numpy/013243" title="NumPy" /> | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" title="Scikit-learn" /> | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" title="Matplotlib" /> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" title="Tailwind CSS" /> | <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" title="Zustand" /> | <img src="https://skillicons.dev/icons?i=prisma&theme=dark" title="Prisma ORM" /> |
 
 </details>
 
@@ -91,7 +90,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | MongoDB | MS SQL Server | Cisco Packet Tracer | PostgreSQL |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> | <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> | <img width="40" src="https://cdn.simpleicons.org/cisco/1BA0D7" /> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" title="MongoDB" /> | <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" title="MS SQL Server" /> | <img width="40" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco Packet Tracer" /> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" title="PostgreSQL" /> |
 
 </details>
 
@@ -101,7 +100,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Kali Linux | Metasploit Framework | Metasploitable | VMware | MS Threat Modeling Tool |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=kali&theme=dark" /> | <img width="24" height="24" src="https://cdn.simpleicons.org/metasploit/white" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" /> | <img width="40" src="https://cdn.simpleicons.org/vmware/607078" /> | <img src="https://img.shields.io/badge/Threat_Modeling-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> |
+| <img src="https://skillicons.dev/icons?i=kali&theme=dark" title="Kali Linux" /> | <img width="24" height="24" src="https://cdn.simpleicons.org/metasploit/white" title="Metasploit Framework" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" title="Metasploitable" /> | <img width="40" src="https://cdn.simpleicons.org/vmware/607078" title="VMware" /> | <img src="https://img.shields.io/badge/Threat_Modeling-0078D4?style=flat-square&logo=microsoft&logoColor=white" title="MS Threat Modeling Tool" /> |
 
 </details>
 
@@ -111,7 +110,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Visual Studio | VS Code | Jupyter Notebook |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /> | <img width="40" src="https://cdn.simpleicons.org/jupyter/F37626" /> |
+| <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" title="Visual Studio" /> | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /> | <img width="40" src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook" /> |
 
 </details>
 <br>
@@ -119,7 +118,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" title="GitHub Streak Stats" />
 </div>
 <br>
 
@@ -127,7 +126,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 ## Reach Out
 
-<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
-<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" /></a>
+<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Gmail" /></a>
 
 </div>
