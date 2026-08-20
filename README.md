@@ -91,7 +91,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | MongoDB | MS SQL Server | Cisco Packet Tracer | PostgreSQL |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> | <img width="40" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" /> | <img width="40" src="https://cdn.simpleicons.org/cisco/1BA0D7" /> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> | <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> | <img width="40" src="https://cdn.simpleicons.org/cisco/1BA0D7" /> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /> |
 
 </details>
 
@@ -101,7 +101,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Kali Linux | Metasploit Framework | Metasploitable | VMware | MS Threat Modeling Tool |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=kali&theme=dark" /> | <img width="24" height="24" src="https://cdn.simpleicons.org/metasploit/white" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" /> | <img width="40" src="https://cdn.simpleicons.org/vmware/607078" /> | <img width="40" src="https://cdn.simpleicons.org/microsoft/0078D4" /> |
+| <img src="https://skillicons.dev/icons?i=kali&theme=dark" /> | <img width="24" height="24" src="https://cdn.simpleicons.org/metasploit/white" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" /> | <img width="40" src="https://cdn.simpleicons.org/vmware/607078" /> | <img src="https://img.shields.io/badge/Threat_Modeling-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> |
 
 </details>
 
@@ -111,7 +111,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Visual Studio | VS Code | Jupyter Notebook |
 |:---:|:---:|:---:|
-| <img width="40" src="https://cdn.simpleicons.org/visualstudio/5C2D91" /> | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /> | <img width="40" src="https://cdn.simpleicons.org/jupyter/F37626" /> |
+| <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /> | <img width="40" src="https://cdn.simpleicons.org/jupyter/F37626" /> |
 
 </details>
 <br>
