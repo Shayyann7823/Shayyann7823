@@ -51,7 +51,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 |---|---|---|
 | [Aureum Movie Reservation System](https://github.com/Shayyann7823/AureumCinema) | Fetches live movie listings via API — browse showtimes, select seats, and book tickets online. | ASP.NET Core MVC, C# |
 | [House of Aura](https://github.com/Shayyann7823/House-Of-Aura) | Full-stack clothing e-commerce platform with an AI-powered stylist chatbot, cart, favorites, and secure auth. | Next.js, React, TypeScript |
-| [Doctors Appointment Scheduler](https://github.com/Shayyann7823/Doctors_Appointment_Scheduler) | CLI app to view doctor availability, book real-time appointments, and process payments. | C++ |
+| [AppointCare](https://github.com/Shayyann7823/Doctors_Appointment_Scheduler) | CLI app to view doctor availability, book real-time appointments, and process payments. | C++ |
 | [Extra Class Scheduler](https://github.com/Shayyann7823/Makeup-Classes-Scheduler) | Web system for Foundation University letting teachers book makeup classes with real-time, department-wise timetables. | HTML, CSS, JavaScript |
 | [Student Enrollment System](https://github.com/Shayyann7823/Student-Enrollment-System) | Add, view, search, update, and delete student records using arrays and functions. | C++ |
 | [HandyDrive](https://github.com/Shayyann7823/HandyDrive) | Real-time hand-gesture recognition system using MediaPipe hand landmark detection — custom finger-counting and fist-detection logic mapped to simulated keyboard input to control racing/driving games. | Python, MediaPipe, PyDirectInput |
