@@ -24,7 +24,7 @@ Final-year IET student at Foundation University, focused on full-stack web & mob
 <tr>
 <td>
 
-**AI-Powered CCTV Surveillance System for Healthcare** · 2025–2026 · Built in partnership with **K-Soft**
+**AI-Powered CCTV Surveillance System ** · 2025–2026 · Built in partnership with **K-Soft**
 
 Real-time human detection across multiple live camera feeds, plus face-recognition-based video search — replacing manual healthcare monitoring with automated, searchable surveillance.
 
