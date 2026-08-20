@@ -14,7 +14,7 @@
 
 Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed 11 projects across web apps, CLI tools, and AI/computer vision.
 
-**Open to:** Software Development Roles · Full-Stack Projects · Collaboration
+**Open to:** Software Development Roles · Full-Stack Projects · AI/ML Integration · Collaboration
 
 <br>
 
