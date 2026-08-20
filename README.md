@@ -1,16 +1,18 @@
 <div align="center">
-<img src="./banner.svg" width="100%" alt="Mirza Shayyan Baig banner" />
+  <img src="./banner.svg" width="100%" alt="Mirza Shayyan Baig banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56B6A2&center=true&vCenter=true&width=600&lines=Final-Year+IET+Student;Full-Stack+%2B+AI%2FML+Developer;Open+to+Software+Dev+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56B6A2&center=true&vCenter=true&width=600&lines=Final-Year+IET+Student;Full-Stack+%2B+AI%2FML+Developer;Open+to+Software+Dev+Roles" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" height="48" /></a>
-<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Email" height="48" /></a>
+  <br>
 
-<br><br>
+  <a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" height="48" /></a>
+  <a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Email" height="48" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111111" title="Profile Views" />
+  <br><br>
 
+  <img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111111" title="Profile Views" />
 </div>
+
 <br>
 
 ## Who I Am
@@ -18,6 +20,7 @@
 Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed projects across web apps, CLI tools, and AI/computer vision.
 
 **Open to:** Software Development Roles · Full-Stack Projects · AI/ML Integration · Collaboration
+
 <br>
 
 ## Featured: SecureVision — My FYP
@@ -39,6 +42,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 </td>
 </tr>
 </table>
+
 <br>
 
 ## Other Projects
@@ -57,6 +61,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 | [HandyDrive](https://github.com/Shayyann7823/HandyDrive) | Real-time hand-gesture recognition system using MediaPipe hand landmark detection — custom finger-counting and fist-detection logic mapped to simulated keyboard input to control racing/driving games. | Python, MediaPipe, PyDirectInput |
 
 </details>
+
 <br>
 
 ## Tech Stack
@@ -120,20 +125,23 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 | <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" title="Visual Studio" /> | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" title="VS Code" /> | <img width="40" src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook" /> |
 
 </details>
+
 <br>
 
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" title="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" title="GitHub Streak Stats" />
 </div>
+
 <br>
 
 ## Contribution Graph
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Shayyann7823/Shayyann7823/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shayyann7823/Shayyann7823/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
 <br>
 
 <div align="center">
