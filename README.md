@@ -16,7 +16,7 @@
 
 ## Who I Am
 
-<img src="https://raw.githubusercontent.com/Martinmendez/Martinmendez/main/mario-run.gif" align="right" width="120" alt="Running Mario" />
+<img src="https://raw.githubusercontent.com/khalil-cherif/khalil-cherif/main/assets/coding.gif" align="right" width="280" alt="Coding GIF" />
 
 Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed projects across web apps, CLI tools, and AI/computer vision.
 
