@@ -125,6 +125,13 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 </div>
 <br>
 
+## Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shayyann7823/Shayyann7823/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+<br>
+
 <div align="center">
 
 ## Reach Out
