@@ -83,10 +83,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Frameworks</b></summary>
 <br>
 
-<a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> React Native&nbsp;&nbsp;
-<a href="https://dotnet.microsoft.com/" title="ASP.NET Core"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a> ASP.NET Core&nbsp;&nbsp;
-<a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a> Next.js&nbsp;&nbsp;
-<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> React
+| React Native | ASP.NET Core | Next.js | React |
+|:---:|:---:|:---:|:---:|
+| <a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> | <a href="https://dotnet.microsoft.com/" title="ASP.NET Core"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a> | <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a> | <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> |
 
 </details>
 
