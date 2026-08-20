@@ -1,34 +1,53 @@
 <div align="center">
+
 <img src="./banner.svg" width="100%" alt="Mirza Shayyan Baig banner" />
+
 <a href="https://github.com/Shayyann7823"><img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS" /></a>
 <a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://img.shields.io/badge/Email-56B6A2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 </div>
+
 <br>
+
 ## Who I Am
+
 Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed projects across web apps, CLI tools, and AI/computer vision.
+
 **Open to:** Software Development Roles · Full-Stack Projects · AI/ML Integration · Collaboration
+
 <br>
+
 ## Featured: SecureVision — My FYP
+
 <table>
 <tr>
 <td>
+
 **AI-Powered CCTV Surveillance System ** · 2025–2026 · Built in partnership with **K-Soft**
+
 Real-time human detection across multiple live camera feeds, plus face-recognition-based video search — replacing manual healthcare monitoring with automated, searchable surveillance.
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=py&theme=dark" title="Python" width="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" title="Next.js" width="40" />&nbsp;
 <a href="https://docs.ultralytics.com/" title="YOLOv8 Docs"><img src="https://img.shields.io/badge/YOLOv8-111111?style=flat-square&logo=yolo&logoColor=00FFFF" /></a>&nbsp;
 <a href="https://github.com/deepinsight/insightface" title="InsightFace"><img src="https://img.shields.io/badge/InsightFace-111111?style=flat-square&logo=github&logoColor=white" /></a>&nbsp;
 <img src="https://skillicons.dev/icons?i=opencv&theme=dark" title="OpenCV" width="40" />
+
 </td>
 </tr>
 </table>
+
 <br>
+
 ## Other Projects
+
 <details open>
 <summary><b>Click to expand / collapse</b></summary>
 <br>
+
 | Project | Description | Stack |
 |---|---|---|
 | [Movie Reservation System](https://github.com/Shayyann7823/AureumMovieReservationSystem) | Fetches live movie listings via API — browse showtimes, select seats, and book tickets online. | ASP.NET Core MVC, C# |
@@ -38,8 +57,11 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 | [Extra Class Scheduler](https://github.com/Shayyann7823/Makeup-Classes-Scheduler) | Web system for Foundation University letting teachers book makeup classes with real-time, department-wise timetables. | HTML, CSS, JavaScript |
 | [Student Enrollment System](https://github.com/Shayyann7823/Student-Enrollment-System) | Add, view, search, update, and delete student records using arrays and functions. | C++ |
 | [HandyDrive](https://github.com/Shayyann7823/HandyDrive) | Real-time hand-gesture recognition system using MediaPipe hand landmark detection — custom finger-counting and fist-detection logic mapped to simulated keyboard input to control racing/driving games. | Python, MediaPipe, PyDirectInput |
+
 </details>
+
 <br>
+
 ## Tech Stack
 
 <details open>
@@ -116,15 +138,25 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 </details>
 
 <br>
+
 ## GitHub Stats
+
 <div align="center">
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shayyann7823&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=56B6A2&icon_color=56B6A2&text_color=C9D1D9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayyann7823&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=56B6A2&text_color=C9D1D9" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" />
+
 </div>
+
 <br>
+
 <div align="center">
+
 ## Reach Out
+
 <a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
 <a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+
 </div>
