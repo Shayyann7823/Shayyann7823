@@ -83,10 +83,10 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Frameworks</b></summary>
 <br>
 
-<a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
-<a href="https://dotnet.microsoft.com/" title="ASP.NET Core"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a>
-<a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a>
-<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> React Native&nbsp;&nbsp;
+<a href="https://dotnet.microsoft.com/" title="ASP.NET Core"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a> ASP.NET Core&nbsp;&nbsp;
+<a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a> Next.js&nbsp;&nbsp;
+<a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> React
 
 </details>
 
@@ -142,9 +142,6 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 ## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shayyann7823&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=56B6A2&icon_color=56B6A2&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shayyann7823&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=56B6A2&text_color=C9D1D9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" />
 
