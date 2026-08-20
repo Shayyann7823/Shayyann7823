@@ -21,7 +21,7 @@
 
 ## Who I Am
 
-Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed projects across web apps, CLI tools, and AI/computer vision.
+Final-year Information Engineering Technology student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed projects across web apps, CLI tools, and AI/computer vision.
 
 <br>
 
