@@ -16,7 +16,7 @@
 
 ## Who I Am
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="right" width="280" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUggAC3P4K81THZs/giphy.gif" align="right" width="260" alt="Coding GIF" />
 
 Final-year IET student at Foundation University, focused on full-stack web & mobile development and AI-driven systems. I've developed projects across web apps, CLI tools, and AI/computer vision.
 
