@@ -1,9 +1,7 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="Mirza Shayyan Baig banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56B6A2&center=true&vCenter=true&width=600&lines=Final-Year+IET+Student;Full-Stack+%2B+AI%2FML+Developer;Building+SecureVision+%E2%80%94+AI+CCTV+System;Open+to+Software+Dev+Roles" alt="Typing SVG" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56B6A2&center=true&vCenter=true&width=600&lines=Final-Year+IET+Student;Full-Stack+%2B+AI%2FML+Developer;Open+to+Software+Dev+Roles" alt="Typing SVG" />
 
 <a href="https://github.com/Shayyann7823"><img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS" title="Profile Views" /></a>
 <a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" /></a>
