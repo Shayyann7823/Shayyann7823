@@ -1,8 +1,13 @@
 <div align="center">
 <img src="./banner.svg" width="100%" alt="Mirza Shayyan Baig banner" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56B6A2&center=true&vCenter=true&width=600&lines=Final-Year+IET+Student;Full-Stack+%2B+AI%2FML+Developer;Building+SecureVision+%E2%80%94+AI+CCTV+System;Open+to+Software+Dev+Roles" alt="Typing SVG" />
+
+<br><br>
+
 <a href="https://github.com/Shayyann7823"><img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS" title="Profile Views" /></a>
-<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://img.shields.io/badge/LinkedIn-0575E6?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" /></a>
-<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://img.shields.io/badge/Email-56B6A2?style=for-the-badge&logo=gmail&logoColor=white" title="Email" /></a>
+<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" /></a>
+<a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Email" /></a>
 </div>
 <br>
 
@@ -119,6 +124,13 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" title="GitHub Streak Stats" />
+</div>
+<br>
+
+## Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Shayyann7823/Shayyann7823/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 <br>
 
