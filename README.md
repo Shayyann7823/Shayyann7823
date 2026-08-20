@@ -68,14 +68,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Programming Languages</b></summary>
 <br>
 
-<a href="https://cplusplus.com/" title="C++"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" /></a>
-<a href="https://www.python.org/" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#"><img src="https://skillicons.dev/icons?i=cs&theme=dark" /></a>
-<a href="https://www.php.net/" title="PHP"><img src="https://skillicons.dev/icons?i=php&theme=dark" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" /></a>
+| C++ | Python | C# | PHP | HTML | CSS | JavaScript | TypeScript |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" /> | <img src="https://skillicons.dev/icons?i=py&theme=dark" /> | <img src="https://skillicons.dev/icons?i=cs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=php&theme=dark" /> | <img src="https://skillicons.dev/icons?i=html&theme=dark" /> | <img src="https://skillicons.dev/icons?i=css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=js&theme=dark" /> | <img src="https://skillicons.dev/icons?i=ts&theme=dark" /> |
 
 </details>
 
@@ -85,7 +80,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | React Native | ASP.NET Core | Next.js | React |
 |:---:|:---:|:---:|:---:|
-| <a href="https://reactnative.dev/" title="React Native"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> | <a href="https://dotnet.microsoft.com/" title="ASP.NET Core"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /></a> | <a href="https://nextjs.org/" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /></a> | <a href="https://react.dev/" title="React"><img src="https://skillicons.dev/icons?i=react&theme=dark" /></a> |
+| <img src="https://skillicons.dev/icons?i=react&theme=dark" /> | <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=react&theme=dark" /> |
 
 </details>
 
@@ -93,13 +88,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Libraries</b></summary>
 <br>
 
-<a href="https://pandas.pydata.org/" title="Pandas"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" /></a>
-<a href="https://numpy.org/" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy&theme=dark" /></a>
-<a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /></a>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square" title="Matplotlib" />&nbsp;
-<a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /></a>
-<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" title="Zustand" />&nbsp;
-<a href="https://www.prisma.io/" title="Prisma ORM"><img src="https://skillicons.dev/icons?i=prisma&theme=dark" /></a>
+| Pandas | NumPy | Scikit-learn | Matplotlib | Tailwind CSS | Zustand | Prisma ORM |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=pandas&theme=dark" /> | <img src="https://skillicons.dev/icons?i=numpy&theme=dark" /> | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /> | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /> | <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" /> | <img src="https://skillicons.dev/icons?i=prisma&theme=dark" /> |
 
 </details>
 
@@ -107,10 +98,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Databases & Networking</b></summary>
 <br>
 
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /></a>
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" title="MS SQL Server (SSMS)" />&nbsp;
-<img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" title="Cisco Packet Tracer" />&nbsp;
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
+| MongoDB | MS SQL Server | Cisco Packet Tracer | PostgreSQL |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" /> | <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /> | <img src="https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=postgres&theme=dark" /> |
 
 </details>
 
@@ -118,11 +108,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Cybersecurity Tools</b></summary>
 <br>
 
-<a href="https://www.kali.org/" title="Kali Linux"><img src="https://skillicons.dev/icons?i=kali&theme=dark" /></a>
-<img src="https://img.shields.io/badge/Metasploit%20Framework-2596CD?style=flat-square" title="Metasploit Framework" />&nbsp;
-<img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" title="Metasploitable" />&nbsp;
-<img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" title="VMware" />&nbsp;
-<img src="https://img.shields.io/badge/MS%20Threat%20Modeling%20Tool-0078D4?style=flat-square&logo=microsoft&logoColor=white" title="Microsoft Threat Modeling Tool" />
+| Kali Linux | Metasploit Framework | Metasploitable | VMware | MS Threat Modeling Tool |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=kali&theme=dark" /> | <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" /> | <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" /> | <img src="https://img.shields.io/badge/Threat_Modeling-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> |
 
 </details>
 
@@ -130,9 +118,9 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 <summary><b>Dev Tools</b></summary>
 <br>
 
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" title="Visual Studio" />&nbsp;
-<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" /></a>
-<a href="https://jupyter.org/" title="Jupyter Notebook"><img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /></a>
+| Visual Studio | VS Code | Jupyter Notebook |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=vscode&theme=dark" /> | <img src="https://skillicons.dev/icons?i=jupyter&theme=dark" /> |
 
 </details>
 
