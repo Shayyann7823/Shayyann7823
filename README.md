@@ -90,7 +90,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Pandas | NumPy | Scikit-learn | Matplotlib | Tailwind CSS | Zustand | Prisma ORM |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=pandas&theme=dark" /> | <img src="https://skillicons.dev/icons?i=numpy&theme=dark" /> | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /> | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /> | <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" /> | <img src="https://skillicons.dev/icons?i=prisma&theme=dark" /> |
+| <img src="https://skillicons.dev/icons?i=pandas&theme=dark" /> | <img src="https://skillicons.dev/icons?i=numpy&theme=dark" /> | <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /> | <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" /> | <img width="48" height="48" style="padding:10px;background:#161B22;border-radius:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" /> | <img src="https://skillicons.dev/icons?i=prisma&theme=dark" /> |
 
 </details>
 
@@ -110,7 +110,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 
 | Kali Linux | Metasploit Framework | Metasploitable | VMware | MS Threat Modeling Tool |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=kali&theme=dark" /> | <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" /> | <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" /> | <img src="https://img.shields.io/badge/Threat_Modeling-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> |
+| <img src="https://skillicons.dev/icons?i=kali&theme=dark" /> | <img width="48" height="48" style="padding:12px;background:#2596CD;border-radius:8px" src="https://cdn.simpleicons.org/metasploit/white" /> | <img src="https://img.shields.io/badge/Metasploitable-2596CD?style=flat-square" /> | <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" /> | <img src="https://img.shields.io/badge/Threat_Modeling-0078D4?style=flat-square&logo=microsoft&logoColor=white" /> |
 
 </details>
 
