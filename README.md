@@ -9,6 +9,11 @@
 
   <br><br>
 
+<a href="https://www.linkedin.com/in/mirza-shayyan-baig-0215882b1"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" height="40" /></a>
+    &nbsp;
+    <a href="mailto:mirzashayyanbaig21@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Email" height="40" /></a>
+  </p>
+
   <img src="https://komarev.com/ghpvc/?username=Shayyann7823&color=56B6A2&style=for-the-badge&label=PROFILE+VIEWS&labelColor=111111" title="Profile Views" />
 </div>
 
