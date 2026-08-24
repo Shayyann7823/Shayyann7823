@@ -11,7 +11,7 @@ jobs:
     name: Generate Streak Stats Image
     steps:
       - name: Generate streak stats SVG
-        uses: DenverCoder1/github-readme-streak-stats@master
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
           user_id: Shayyann7823
           theme: github-dark-blue
