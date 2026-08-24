@@ -143,7 +143,7 @@ Real-time human detection across multiple live camera feeds, plus face-recogniti
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shayyann7823&theme=github-dark-blue&hide_border=true&background=0D1117&ring=56B6A2&fire=56B6A2&currStreakLabel=56B6A2" title="GitHub Streak Stats" />
+  <img src="./streak-stats.svg" title="GitHub Streak Stats" />
 </div>
 
 <br>
